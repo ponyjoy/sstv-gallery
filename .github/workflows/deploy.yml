@@ -40,9 +40,18 @@ jobs:
       - name: Create .nojekyll file
         run: touch .nojekyll
 
+      - name: List files to be deployed
+        run: |
+          echo "Files in current directory:"
+          ls -lah | head -20
+          echo ""
+          echo "Checking data.json:"
+          ls -lh data.json
+
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./
           force_orphan: true
+          exclude_assets: '.github,node_modules'
