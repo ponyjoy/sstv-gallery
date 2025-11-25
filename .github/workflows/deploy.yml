@@ -28,12 +28,17 @@ jobs:
       - name: Verify data.json exists
         run: |
           if [ -f data.json ]; then
-            echo "data.json generated successfully"
+            echo "✓ data.json generated successfully"
             ls -lh data.json
+            echo "First 5 lines of data.json:"
+            head -5 data.json
           else
-            echo "ERROR: data.json not found!"
+            echo "✗ ERROR: data.json not found!"
             exit 1
           fi
+
+      - name: Create .nojekyll file
+        run: touch .nojekyll
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
@@ -41,4 +46,3 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./
           force_orphan: true
-          enable_jekyll: false
