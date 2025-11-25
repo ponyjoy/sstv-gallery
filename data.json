@@ -1,5 +1,222 @@
 [
   {
+    "path": "assets/images/ARCTICSAT-1(RS74S)/General/2025-04-01_01.33.50.jpg",
+    "satellite": "ARCTICSAT-1(RS74S)",
+    "event": "General",
+    "date": "2025-04-01T01:33:50Z",
+    "filename": "2025-04-01_01.33.50"
+  },
+  {
+    "path": "assets/images/ARCTICSAT-1(RS74S)/General/2025-04-01_01.35.50.jpg",
+    "satellite": "ARCTICSAT-1(RS74S)",
+    "event": "General",
+    "date": "2025-04-01T01:35:50Z",
+    "filename": "2025-04-01_01.35.50"
+  },
+  {
+    "path": "assets/images/ARCTICSAT-1(RS74S)/General/2025-04-01_01.37.50.jpg",
+    "satellite": "ARCTICSAT-1(RS74S)",
+    "event": "General",
+    "date": "2025-04-01T01:37:50Z",
+    "filename": "2025-04-01_01.37.50"
+  },
+  {
+    "path": "assets/images/ARCTICSAT-1(RS74S)/General/2025-04-01_01.39.49.jpg",
+    "satellite": "ARCTICSAT-1(RS74S)",
+    "event": "General",
+    "date": "2025-04-01T01:39:49Z",
+    "filename": "2025-04-01_01.39.49"
+  },
+  {
+    "path": "assets/images/ARCTICSAT-1(RS74S)/General/2025-08-18_13.20.45.jpg",
+    "satellite": "ARCTICSAT-1(RS74S)",
+    "event": "General",
+    "date": "2025-08-18T13:20:45Z",
+    "filename": "2025-08-18_13.20.45"
+  },
+  {
+    "path": "assets/images/ARCTICSAT-1(RS74S)/General/2025-08-18_13.25.49.jpg",
+    "satellite": "ARCTICSAT-1(RS74S)",
+    "event": "General",
+    "date": "2025-08-18T13:25:49Z",
+    "filename": "2025-08-18_13.25.49"
+  },
+  {
+    "path": "assets/images/ARCTICSAT-1(RS74S)/General/2025-08-19_01.20.48.jpg",
+    "satellite": "ARCTICSAT-1(RS74S)",
+    "event": "General",
+    "date": "2025-08-19T01:20:48Z",
+    "filename": "2025-08-19_01.20.48"
+  },
+  {
+    "path": "assets/images/ARCTICSAT-1(RS74S)/General/2025-08-19_01.25.jpg",
+    "satellite": "ARCTICSAT-1(RS74S)",
+    "event": "General",
+    "date": "2025-08-19T01:25:00Z",
+    "filename": "2025-08-19_01.25"
+  },
+  {
+    "path": "assets/images/ARCTICSAT-1(RS74S)/General/2025-09-04_13.40.45.jpg",
+    "satellite": "ARCTICSAT-1(RS74S)",
+    "event": "General",
+    "date": "2025-09-04T13:40:45Z",
+    "filename": "2025-09-04_13.40.45"
+  },
+  {
+    "path": "assets/images/ARCTICSAT-1(RS74S)/General/2025-09-07_14.50.00.jpg",
+    "satellite": "ARCTICSAT-1(RS74S)",
+    "event": "General",
+    "date": "2025-09-07T14:50:00Z",
+    "filename": "2025-09-07_14.50.00"
+  },
+  {
+    "path": "assets/images/ARCTICSAT-1(RS74S)/General/2025-09-08_14.10.jpg",
+    "satellite": "ARCTICSAT-1(RS74S)",
+    "event": "General",
+    "date": "2025-09-08T14:10:00Z",
+    "filename": "2025-09-08_14.10"
+  },
+  {
+    "path": "assets/images/ARCTICSAT-1(RS74S)/General/2025-09-08_14.10.jpg.jpg",
+    "satellite": "ARCTICSAT-1(RS74S)",
+    "event": "General",
+    "date": "2025-09-10T14:45:35.269Z",
+    "filename": "2025-09-08_14.10.jpg"
+  },
+  {
+    "path": "assets/images/ARCTICSAT-1(RS74S)/General/2025-09-10_14.25.00.jpg",
+    "satellite": "ARCTICSAT-1(RS74S)",
+    "event": "General",
+    "date": "2025-09-10T14:25:00Z",
+    "filename": "2025-09-10_14.25.00"
+  },
+  {
+    "path": "assets/images/ARCTICSAT-1(RS74S)/General/2025-09-10_14.30.00.jpg",
+    "satellite": "ARCTICSAT-1(RS74S)",
+    "event": "General",
+    "date": "2025-09-10T14:30:00Z",
+    "filename": "2025-09-10_14.30.00"
+  },
+  {
+    "path": "assets/images/ARCTICSAT-1(RS74S)/General/2025-09-11_13.48.40.jpg",
+    "satellite": "ARCTICSAT-1(RS74S)",
+    "event": "General",
+    "date": "2025-09-11T13:48:40Z",
+    "filename": "2025-09-11_13.48.40"
+  },
+  {
+    "path": "assets/images/ARCTICSAT-1(RS74S)/General/2025-09-11_13.50.jpg",
+    "satellite": "ARCTICSAT-1(RS74S)",
+    "event": "General",
+    "date": "2025-09-11T13:50:00Z",
+    "filename": "2025-09-11_13.50"
+  },
+  {
+    "path": "assets/images/ARCTICSAT-1(RS74S)/General/2025-09-11_13.55.jpg",
+    "satellite": "ARCTICSAT-1(RS74S)",
+    "event": "General",
+    "date": "2025-09-11T13:55:00Z",
+    "filename": "2025-09-11_13.55"
+  },
+  {
+    "path": "assets/images/ARCTICSAT-1(RS74S)/General/2025-10-27_14.00.jpg",
+    "satellite": "ARCTICSAT-1(RS74S)",
+    "event": "General",
+    "date": "2025-10-27T14:00:00Z",
+    "filename": "2025-10-27_14.00"
+  },
+  {
+    "path": "assets/images/ARCTICSAT-1(RS74S)/General/2025-10-27_14.05.jpg",
+    "satellite": "ARCTICSAT-1(RS74S)",
+    "event": "General",
+    "date": "2025-10-27T14:05:00Z",
+    "filename": "2025-10-27_14.05"
+  },
+  {
+    "path": "assets/images/ARCTICSAT-1(RS74S)/General/2025-10-28_02.00.jpg",
+    "satellite": "ARCTICSAT-1(RS74S)",
+    "event": "General",
+    "date": "2025-10-28T02:00:00Z",
+    "filename": "2025-10-28_02.00"
+  },
+  {
+    "path": "assets/images/ARCTICSAT-1(RS74S)/General/2025-10-29_01.20.jpg",
+    "satellite": "ARCTICSAT-1(RS74S)",
+    "event": "General",
+    "date": "2025-10-29T01:20:00Z",
+    "filename": "2025-10-29_01.20"
+  },
+  {
+    "path": "assets/images/ARCTICSAT-1(RS74S)/General/2025-10-30_02.07.jpg",
+    "satellite": "ARCTICSAT-1(RS74S)",
+    "event": "General",
+    "date": "2025-10-30T02:07:00Z",
+    "filename": "2025-10-30_02.07"
+  },
+  {
+    "path": "assets/images/ARCTICSAT-1(RS74S)/General/2025-11-03_13.40.jpg",
+    "satellite": "ARCTICSAT-1(RS74S)",
+    "event": "General",
+    "date": "2025-11-03T13:40:00Z",
+    "filename": "2025-11-03_13.40"
+  },
+  {
+    "path": "assets/images/ARCTICSAT-1(RS74S)/General/2025-11-03_13.45.jpg",
+    "satellite": "ARCTICSAT-1(RS74S)",
+    "event": "General",
+    "date": "2025-11-03T13:45:00Z",
+    "filename": "2025-11-03_13.45"
+  },
+  {
+    "path": "assets/images/ARCTICSAT-1(RS74S)/General/2025-11-05_13.50.jpg",
+    "satellite": "ARCTICSAT-1(RS74S)",
+    "event": "General",
+    "date": "2025-11-05T13:50:00Z",
+    "filename": "2025-11-05_13.50"
+  },
+  {
+    "path": "assets/images/ARCTICSAT-1(RS74S)/General/2025-11-06_01.50.jpg",
+    "satellite": "ARCTICSAT-1(RS74S)",
+    "event": "General",
+    "date": "2025-11-06T01:50:00Z",
+    "filename": "2025-11-06_01.50"
+  },
+  {
+    "path": "assets/images/ARCTICSAT-1(RS74S)/General/2025-11-06_01.55.jpg",
+    "satellite": "ARCTICSAT-1(RS74S)",
+    "event": "General",
+    "date": "2025-11-06T01:55:00Z",
+    "filename": "2025-11-06_01.55"
+  },
+  {
+    "path": "assets/images/ARCTICSAT-1(RS74S)/General/2025-11-07_01.05.jpg",
+    "satellite": "ARCTICSAT-1(RS74S)",
+    "event": "General",
+    "date": "2025-11-07T01:05:00Z",
+    "filename": "2025-11-07_01.05"
+  },
+  {
+    "path": "assets/images/ARCTICSAT-1(RS74S)/General/2025-11-13_14.10.jpg",
+    "satellite": "ARCTICSAT-1(RS74S)",
+    "event": "General",
+    "date": "2025-11-13T14:10:00Z",
+    "filename": "2025-11-13_14.10"
+  },
+  {
+    "path": "assets/images/ARCTICSAT-1(RS74S)/General/2025-11-16_00.40.jpg",
+    "satellite": "ARCTICSAT-1(RS74S)",
+    "event": "General",
+    "date": "2025-11-16T00:40:00Z",
+    "filename": "2025-11-16_00.40"
+  },
+  {
+    "path": "assets/images/ARCTICSAT-1(RS74S)/General/Рождество Христово/20241231_0112.jpg",
+    "satellite": "ARCTICSAT-1(RS74S)",
+    "event": "General",
+    "date": "2024-12-31T01:12:00Z",
+    "filename": "20241231_0112"
+  },
+  {
     "path": "assets/images/ARISS/Series_23/20241228_2358.jpg",
     "satellite": "ARISS",
     "event": "Series 23",
@@ -194,223 +411,6 @@
     "event": "Series 29",
     "date": "2025-10-07T07:52:23Z",
     "filename": "2025-10-07_07.52.23"
-  },
-  {
-    "path": "assets/images/ARTICSAT-1(RS74S)/General/2025-04-01_01.33.50.jpg",
-    "satellite": "ARTICSAT-1(RS74S)",
-    "event": "General",
-    "date": "2025-04-01T01:33:50Z",
-    "filename": "2025-04-01_01.33.50"
-  },
-  {
-    "path": "assets/images/ARTICSAT-1(RS74S)/General/2025-04-01_01.35.50.jpg",
-    "satellite": "ARTICSAT-1(RS74S)",
-    "event": "General",
-    "date": "2025-04-01T01:35:50Z",
-    "filename": "2025-04-01_01.35.50"
-  },
-  {
-    "path": "assets/images/ARTICSAT-1(RS74S)/General/2025-04-01_01.37.50.jpg",
-    "satellite": "ARTICSAT-1(RS74S)",
-    "event": "General",
-    "date": "2025-04-01T01:37:50Z",
-    "filename": "2025-04-01_01.37.50"
-  },
-  {
-    "path": "assets/images/ARTICSAT-1(RS74S)/General/2025-04-01_01.39.49.jpg",
-    "satellite": "ARTICSAT-1(RS74S)",
-    "event": "General",
-    "date": "2025-04-01T01:39:49Z",
-    "filename": "2025-04-01_01.39.49"
-  },
-  {
-    "path": "assets/images/ARTICSAT-1(RS74S)/General/2025-08-18_13.20.45.jpg",
-    "satellite": "ARTICSAT-1(RS74S)",
-    "event": "General",
-    "date": "2025-08-18T13:20:45Z",
-    "filename": "2025-08-18_13.20.45"
-  },
-  {
-    "path": "assets/images/ARTICSAT-1(RS74S)/General/2025-08-18_13.25.49.jpg",
-    "satellite": "ARTICSAT-1(RS74S)",
-    "event": "General",
-    "date": "2025-08-18T13:25:49Z",
-    "filename": "2025-08-18_13.25.49"
-  },
-  {
-    "path": "assets/images/ARTICSAT-1(RS74S)/General/2025-08-19_01.20.48.jpg",
-    "satellite": "ARTICSAT-1(RS74S)",
-    "event": "General",
-    "date": "2025-08-19T01:20:48Z",
-    "filename": "2025-08-19_01.20.48"
-  },
-  {
-    "path": "assets/images/ARTICSAT-1(RS74S)/General/2025-08-19_01.25.jpg",
-    "satellite": "ARTICSAT-1(RS74S)",
-    "event": "General",
-    "date": "2025-08-19T01:25:00Z",
-    "filename": "2025-08-19_01.25"
-  },
-  {
-    "path": "assets/images/ARTICSAT-1(RS74S)/General/2025-09-04_13.40.45.jpg",
-    "satellite": "ARTICSAT-1(RS74S)",
-    "event": "General",
-    "date": "2025-09-04T13:40:45Z",
-    "filename": "2025-09-04_13.40.45"
-  },
-  {
-    "path": "assets/images/ARTICSAT-1(RS74S)/General/2025-09-07_14.50.00.jpg",
-    "satellite": "ARTICSAT-1(RS74S)",
-    "event": "General",
-    "date": "2025-09-07T14:50:00Z",
-    "filename": "2025-09-07_14.50.00"
-  },
-  {
-    "path": "assets/images/ARTICSAT-1(RS74S)/General/2025-09-08_14.10.jpg",
-    "satellite": "ARTICSAT-1(RS74S)",
-    "event": "General",
-    "date": "2025-09-08T14:10:00Z",
-    "filename": "2025-09-08_14.10"
-  },
-  {
-    "path": "assets/images/ARTICSAT-1(RS74S)/General/2025-09-08_14.10.jpg.jpg",
-    "satellite": "ARTICSAT-1(RS74S)",
-    "event": "General",
-    "date": "2025-09-10T14:45:35.269Z",
-    "filename": "2025-09-08_14.10.jpg"
-  },
-  {
-    "path": "assets/images/ARTICSAT-1(RS74S)/General/2025-09-10_14.25.00.jpg",
-    "satellite": "ARTICSAT-1(RS74S)",
-    "event": "General",
-    "date": "2025-09-10T14:25:00Z",
-    "filename": "2025-09-10_14.25.00"
-  },
-  {
-    "path": "assets/images/ARTICSAT-1(RS74S)/General/2025-09-10_14.30.00.jpg",
-    "satellite": "ARTICSAT-1(RS74S)",
-    "event": "General",
-    "date": "2025-09-10T14:30:00Z",
-    "filename": "2025-09-10_14.30.00"
-  },
-  {
-    "path": "assets/images/ARTICSAT-1(RS74S)/General/2025-09-11_13.48.40.jpg",
-    "satellite": "ARTICSAT-1(RS74S)",
-    "event": "General",
-    "date": "2025-09-11T13:48:40Z",
-    "filename": "2025-09-11_13.48.40"
-  },
-  {
-    "path": "assets/images/ARTICSAT-1(RS74S)/General/2025-09-11_13.50.jpg",
-    "satellite": "ARTICSAT-1(RS74S)",
-    "event": "General",
-    "date": "2025-09-11T13:50:00Z",
-    "filename": "2025-09-11_13.50"
-  },
-  {
-    "path": "assets/images/ARTICSAT-1(RS74S)/General/2025-09-11_13.55.jpg",
-    "satellite": "ARTICSAT-1(RS74S)",
-    "event": "General",
-    "date": "2025-09-11T13:55:00Z",
-    "filename": "2025-09-11_13.55"
-  },
-  {
-    "path": "assets/images/ARTICSAT-1(RS74S)/General/2025-10-27_14.00.jpg",
-    "satellite": "ARTICSAT-1(RS74S)",
-    "event": "General",
-    "date": "2025-10-27T14:00:00Z",
-    "filename": "2025-10-27_14.00"
-  },
-  {
-    "path": "assets/images/ARTICSAT-1(RS74S)/General/2025-10-27_14.05.jpg",
-    "satellite": "ARTICSAT-1(RS74S)",
-    "event": "General",
-    "date": "2025-10-27T14:05:00Z",
-    "filename": "2025-10-27_14.05"
-  },
-  {
-    "path": "assets/images/ARTICSAT-1(RS74S)/General/2025-10-28_02.00.jpg",
-    "satellite": "ARTICSAT-1(RS74S)",
-    "event": "General",
-    "date": "2025-10-28T02:00:00Z",
-    "filename": "2025-10-28_02.00"
-  },
-  {
-    "path": "assets/images/ARTICSAT-1(RS74S)/General/2025-10-29_01.20.jpg",
-    "satellite": "ARTICSAT-1(RS74S)",
-    "event": "General",
-    "date": "2025-10-29T01:20:00Z",
-    "filename": "2025-10-29_01.20"
-  },
-  {
-    "path": "assets/images/ARTICSAT-1(RS74S)/General/2025-10-30_02.07.jpg",
-    "satellite": "ARTICSAT-1(RS74S)",
-    "event": "General",
-    "date": "2025-10-30T02:07:00Z",
-    "filename": "2025-10-30_02.07"
-  },
-  {
-    "path": "assets/images/ARTICSAT-1(RS74S)/General/2025-11-03_13.40.jpg",
-    "satellite": "ARTICSAT-1(RS74S)",
-    "event": "General",
-    "date": "2025-11-03T13:40:00Z",
-    "filename": "2025-11-03_13.40"
-  },
-  {
-    "path": "assets/images/ARTICSAT-1(RS74S)/General/2025-11-03_13.45.jpg",
-    "satellite": "ARTICSAT-1(RS74S)",
-    "event": "General",
-    "date": "2025-11-03T13:45:00Z",
-    "filename": "2025-11-03_13.45"
-  },
-  {
-    "path": "assets/images/ARTICSAT-1(RS74S)/General/2025-11-05_13.50.jpg",
-    "satellite": "ARTICSAT-1(RS74S)",
-    "event": "General",
-    "date": "2025-11-05T13:50:00Z",
-    "filename": "2025-11-05_13.50"
-  },
-  {
-    "path": "assets/images/ARTICSAT-1(RS74S)/General/2025-11-06_01.50.jpg",
-    "satellite": "ARTICSAT-1(RS74S)",
-    "event": "General",
-    "date": "2025-11-06T01:50:00Z",
-    "filename": "2025-11-06_01.50"
-  },
-  {
-    "path": "assets/images/ARTICSAT-1(RS74S)/General/2025-11-06_01.55.jpg",
-    "satellite": "ARTICSAT-1(RS74S)",
-    "event": "General",
-    "date": "2025-11-06T01:55:00Z",
-    "filename": "2025-11-06_01.55"
-  },
-  {
-    "path": "assets/images/ARTICSAT-1(RS74S)/General/2025-11-07_01.05.jpg",
-    "satellite": "ARTICSAT-1(RS74S)",
-    "event": "General",
-    "date": "2025-11-07T01:05:00Z",
-    "filename": "2025-11-07_01.05"
-  },
-  {
-    "path": "assets/images/ARTICSAT-1(RS74S)/General/2025-11-13_14.10.jpg",
-    "satellite": "ARTICSAT-1(RS74S)",
-    "event": "General",
-    "date": "2025-11-13T14:10:00Z",
-    "filename": "2025-11-13_14.10"
-  },
-  {
-    "path": "assets/images/ARTICSAT-1(RS74S)/General/2025-11-16_00.40.jpg",
-    "satellite": "ARTICSAT-1(RS74S)",
-    "event": "General",
-    "date": "2025-11-16T00:40:00Z",
-    "filename": "2025-11-16_00.40"
-  },
-  {
-    "path": "assets/images/ARTICSAT-1(RS74S)/General/Рождество Христово/20241231_0112.jpg",
-    "satellite": "ARTICSAT-1(RS74S)",
-    "event": "General",
-    "date": "2024-12-31T01:12:00Z",
-    "filename": "20241231_0112"
   },
   {
     "path": "assets/images/HYPERVIEW-1G(RS66S)/General/20250106_0153.jpg",
