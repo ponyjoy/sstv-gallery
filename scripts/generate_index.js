@@ -47,14 +47,15 @@ if (fs.existsSync(IMAGES_DIR)) {
             const filename = path.basename(filePath, ext);
             let date = '';
 
-            // Regex for YYYYMMDD_HHMM or YYYYMMDD_HHMMSS (Compact)
-            const compactMatch = filename.match(/^(\d{4})(\d{2})(\d{2})[_-](\d{2})(\d{2})(?:(\d{2}))?/);
+            // Regex for YYYY-MM-DD_HH.MM.SS or YYYY-MM-DD_HH.MM (RXSSTV format)
+            // Matches anywhere in filename, e.g., "ISS-2025-04-12_07.09.59"
+            const rxsstvMatch = filename.match(/(\d{4})-(\d{2})-(\d{2})[_\s](\d{2})\.(\d{2})(?:\.(\d{2}))?/);
 
-            // Regex for YYYY-MM-DD_HH.MM.SS or YYYY-MM-DD_HH.MM (RXSSTV)
-            // Now also matches patterns like 2025-10-04_01.33-2 by ignoring trailing characters
-            const rxsstvMatch = filename.match(/^(\d{4})-(\d{2})-(\d{2})[_\s](\d{2})\.(\d{2})(?:\.(\d{2}))?/);
+            // Regex for YYYYMMDD_HHMM or YYYYMMDD_HHMMSS (Compact format)
+            // Matches anywhere in filename
+            const compactMatch = filename.match(/(\d{4})(\d{2})(\d{2})[_-](\d{2})(\d{2})(?:(\d{2}))?/);
 
-            const dateMatch = compactMatch || rxsstvMatch;
+            const dateMatch = rxsstvMatch || compactMatch;
 
             if (dateMatch) {
                 // Construct ISO string with Z to indicate UTC

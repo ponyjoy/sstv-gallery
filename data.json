@@ -80,7 +80,7 @@
     "path": "assets/images/ARCTICSAT-1(RS74S)/General/2025-09-08_14.10.jpg.jpg",
     "satellite": "ARCTICSAT-1(RS74S)",
     "event": "General",
-    "date": "2025-09-10T14:45:35.269Z",
+    "date": "2025-09-08T14:10:00Z",
     "filename": "2025-09-08_14.10.jpg"
   },
   {
@@ -269,35 +269,35 @@
     "path": "assets/images/ARISS/Series_26/ISS-2025-04-12_06.01.12.jpg",
     "satellite": "ARISS",
     "event": "Series 26",
-    "date": "2025-04-12T10:42:30.313Z",
+    "date": "2025-04-12T06:01:12Z",
     "filename": "ISS-2025-04-12_06.01.12"
   },
   {
     "path": "assets/images/ARISS/Series_26/ISS-2025-04-12_07.07.59.jpg",
     "satellite": "ARISS",
     "event": "Series 26",
-    "date": "2025-04-12T12:01:42.841Z",
+    "date": "2025-04-12T07:07:59Z",
     "filename": "ISS-2025-04-12_07.07.59"
   },
   {
     "path": "assets/images/ARISS/Series_26/ISS-2025-04-12_07.09.59.jpg",
     "satellite": "ARISS",
     "event": "Series 26",
-    "date": "2025-04-12T12:14:14.424Z",
+    "date": "2025-04-12T07:09:59Z",
     "filename": "ISS-2025-04-12_07.09.59"
   },
   {
     "path": "assets/images/ARISS/Series_26/ISS-2025-04-14_06.03.jpg",
     "satellite": "ARISS",
     "event": "Series 26",
-    "date": "2025-04-14T08:01:33.922Z",
+    "date": "2025-04-14T06:03:00Z",
     "filename": "ISS-2025-04-14_06.03"
   },
   {
     "path": "assets/images/ARISS/Series_26/ISS-2025-04-15_00.19.51.jpg",
     "satellite": "ARISS",
     "event": "Series 26",
-    "date": "2025-04-16T07:05:31.708Z",
+    "date": "2025-04-15T00:19:51Z",
     "filename": "ISS-2025-04-15_00.19.51"
   },
   {
@@ -794,7 +794,7 @@
     "path": "assets/images/UMKA-1(RS40S)/General/2025-10-04_01.33-5.jpg",
     "satellite": "UMKA-1(RS40S)",
     "event": "General",
-    "date": "2025-10-04T04:08:45.006Z",
+    "date": "2025-10-04T01:33:00Z",
     "filename": "2025-10-04_01.33-5"
   },
   {
