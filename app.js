@@ -106,6 +106,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const allLi = document.createElement('li');
         const allLink = document.createElement('a');
         allLink.innerHTML = `<span>全部日期</span><span class="archive-count">【${allImages.length}】</span>`;
+        allLink.title = '全部日期';
         allLink.classList.add('active');
         allLink.addEventListener('click', () => {
             document.querySelectorAll('#dateArchive a').forEach(a => a.classList.remove('active'));
@@ -120,6 +121,7 @@ document.addEventListener('DOMContentLoaded', () => {
             const li = document.createElement('li');
             const link = document.createElement('a');
             link.innerHTML = `<span>${data.label}</span><span class="archive-count">【${data.count}】</span>`;
+            link.title = data.label;
 
             link.addEventListener('click', () => {
                 document.querySelectorAll('#dateArchive a').forEach(a => a.classList.remove('active'));
@@ -156,6 +158,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const allLi = document.createElement('li');
         const allLink = document.createElement('a');
         allLink.innerHTML = `<span>全部事件</span><span class="archive-count">【${allImages.length}】</span>`;
+        allLink.title = '全部事件';
         allLink.classList.add('active');
         allLink.addEventListener('click', () => {
             document.querySelectorAll('#eventArchive a').forEach(a => a.classList.remove('active'));
@@ -169,7 +172,8 @@ document.addEventListener('DOMContentLoaded', () => {
         sortedEvents.forEach(([key, data]) => {
             const li = document.createElement('li');
             const link = document.createElement('a');
-            link.innerHTML = `<span>${data.label}</span> <span class="archive-count">【${data.count}】</span>`;
+            link.innerHTML = `<span>${data.label}</span><span class="archive-count">【${data.count}】</span>`;
+            link.title = data.label;
 
             link.addEventListener('click', () => {
                 document.querySelectorAll('#eventArchive a').forEach(a => a.classList.remove('active'));

@@ -7,6 +7,13 @@
     "filename": "20241228_2358"
   },
   {
+    "path": "assets/images/ARISS/Series_23/20241230_0223.jpg",
+    "satellite": "ARISS",
+    "event": "Series 23",
+    "date": "2024-12-30T02:23:00Z",
+    "filename": "20241230_0223"
+  },
+  {
     "path": "assets/images/ARISS/Series_23/20250104_1503.png",
     "satellite": "ARISS",
     "event": "Series 23",
@@ -189,249 +196,298 @@
     "filename": "2025-10-07_07.52.23"
   },
   {
-    "path": "assets/images/ARTICSAT-1(RS74S)/2025-04-01_01.33.50.jpg",
+    "path": "assets/images/ARTICSAT-1(RS74S)/General/2025-04-01_01.33.50.jpg",
     "satellite": "ARTICSAT-1(RS74S)",
     "event": "General",
     "date": "2025-04-01T01:33:50Z",
     "filename": "2025-04-01_01.33.50"
   },
   {
-    "path": "assets/images/ARTICSAT-1(RS74S)/2025-04-01_01.35.50.jpg",
+    "path": "assets/images/ARTICSAT-1(RS74S)/General/2025-04-01_01.35.50.jpg",
     "satellite": "ARTICSAT-1(RS74S)",
     "event": "General",
     "date": "2025-04-01T01:35:50Z",
     "filename": "2025-04-01_01.35.50"
   },
   {
-    "path": "assets/images/ARTICSAT-1(RS74S)/2025-04-01_01.37.50.jpg",
+    "path": "assets/images/ARTICSAT-1(RS74S)/General/2025-04-01_01.37.50.jpg",
     "satellite": "ARTICSAT-1(RS74S)",
     "event": "General",
     "date": "2025-04-01T01:37:50Z",
     "filename": "2025-04-01_01.37.50"
   },
   {
-    "path": "assets/images/ARTICSAT-1(RS74S)/2025-04-01_01.39.49.jpg",
+    "path": "assets/images/ARTICSAT-1(RS74S)/General/2025-04-01_01.39.49.jpg",
     "satellite": "ARTICSAT-1(RS74S)",
     "event": "General",
     "date": "2025-04-01T01:39:49Z",
     "filename": "2025-04-01_01.39.49"
   },
   {
-    "path": "assets/images/ARTICSAT-1(RS74S)/2025-08-18_13.20.45.jpg",
+    "path": "assets/images/ARTICSAT-1(RS74S)/General/2025-08-18_13.20.45.jpg",
     "satellite": "ARTICSAT-1(RS74S)",
     "event": "General",
     "date": "2025-08-18T13:20:45Z",
     "filename": "2025-08-18_13.20.45"
   },
   {
-    "path": "assets/images/ARTICSAT-1(RS74S)/2025-08-18_13.25.49.jpg",
+    "path": "assets/images/ARTICSAT-1(RS74S)/General/2025-08-18_13.25.49.jpg",
     "satellite": "ARTICSAT-1(RS74S)",
     "event": "General",
     "date": "2025-08-18T13:25:49Z",
     "filename": "2025-08-18_13.25.49"
   },
   {
-    "path": "assets/images/ARTICSAT-1(RS74S)/2025-08-19_01.20.48.jpg",
+    "path": "assets/images/ARTICSAT-1(RS74S)/General/2025-08-19_01.20.48.jpg",
     "satellite": "ARTICSAT-1(RS74S)",
     "event": "General",
     "date": "2025-08-19T01:20:48Z",
     "filename": "2025-08-19_01.20.48"
   },
   {
-    "path": "assets/images/ARTICSAT-1(RS74S)/2025-08-19_01.25.jpg",
+    "path": "assets/images/ARTICSAT-1(RS74S)/General/2025-08-19_01.25.jpg",
     "satellite": "ARTICSAT-1(RS74S)",
     "event": "General",
     "date": "2025-08-19T01:25:00Z",
     "filename": "2025-08-19_01.25"
   },
   {
-    "path": "assets/images/ARTICSAT-1(RS74S)/2025-09-04_13.40.45.jpg",
+    "path": "assets/images/ARTICSAT-1(RS74S)/General/2025-09-04_13.40.45.jpg",
     "satellite": "ARTICSAT-1(RS74S)",
     "event": "General",
     "date": "2025-09-04T13:40:45Z",
     "filename": "2025-09-04_13.40.45"
   },
   {
-    "path": "assets/images/ARTICSAT-1(RS74S)/2025-09-07_14.50.00.jpg",
+    "path": "assets/images/ARTICSAT-1(RS74S)/General/2025-09-07_14.50.00.jpg",
     "satellite": "ARTICSAT-1(RS74S)",
     "event": "General",
     "date": "2025-09-07T14:50:00Z",
     "filename": "2025-09-07_14.50.00"
   },
   {
-    "path": "assets/images/ARTICSAT-1(RS74S)/2025-09-08_14.10.jpg",
+    "path": "assets/images/ARTICSAT-1(RS74S)/General/2025-09-08_14.10.jpg",
     "satellite": "ARTICSAT-1(RS74S)",
     "event": "General",
     "date": "2025-09-08T14:10:00Z",
     "filename": "2025-09-08_14.10"
   },
   {
-    "path": "assets/images/ARTICSAT-1(RS74S)/2025-09-08_14.10.jpg.jpg",
+    "path": "assets/images/ARTICSAT-1(RS74S)/General/2025-09-08_14.10.jpg.jpg",
     "satellite": "ARTICSAT-1(RS74S)",
     "event": "General",
     "date": "2025-09-10T14:45:35.269Z",
     "filename": "2025-09-08_14.10.jpg"
   },
   {
-    "path": "assets/images/ARTICSAT-1(RS74S)/2025-09-10_14.25.00.jpg",
+    "path": "assets/images/ARTICSAT-1(RS74S)/General/2025-09-10_14.25.00.jpg",
     "satellite": "ARTICSAT-1(RS74S)",
     "event": "General",
     "date": "2025-09-10T14:25:00Z",
     "filename": "2025-09-10_14.25.00"
   },
   {
-    "path": "assets/images/ARTICSAT-1(RS74S)/2025-09-10_14.30.00.jpg",
+    "path": "assets/images/ARTICSAT-1(RS74S)/General/2025-09-10_14.30.00.jpg",
     "satellite": "ARTICSAT-1(RS74S)",
     "event": "General",
     "date": "2025-09-10T14:30:00Z",
     "filename": "2025-09-10_14.30.00"
   },
   {
-    "path": "assets/images/ARTICSAT-1(RS74S)/2025-09-11_13.48.40.jpg",
+    "path": "assets/images/ARTICSAT-1(RS74S)/General/2025-09-11_13.48.40.jpg",
     "satellite": "ARTICSAT-1(RS74S)",
     "event": "General",
     "date": "2025-09-11T13:48:40Z",
     "filename": "2025-09-11_13.48.40"
   },
   {
-    "path": "assets/images/ARTICSAT-1(RS74S)/2025-09-11_13.50.jpg",
+    "path": "assets/images/ARTICSAT-1(RS74S)/General/2025-09-11_13.50.jpg",
     "satellite": "ARTICSAT-1(RS74S)",
     "event": "General",
     "date": "2025-09-11T13:50:00Z",
     "filename": "2025-09-11_13.50"
   },
   {
-    "path": "assets/images/ARTICSAT-1(RS74S)/2025-09-11_13.55.jpg",
+    "path": "assets/images/ARTICSAT-1(RS74S)/General/2025-09-11_13.55.jpg",
     "satellite": "ARTICSAT-1(RS74S)",
     "event": "General",
     "date": "2025-09-11T13:55:00Z",
     "filename": "2025-09-11_13.55"
   },
   {
-    "path": "assets/images/ARTICSAT-1(RS74S)/2025-10-27_14.00.jpg",
+    "path": "assets/images/ARTICSAT-1(RS74S)/General/2025-10-27_14.00.jpg",
     "satellite": "ARTICSAT-1(RS74S)",
     "event": "General",
     "date": "2025-10-27T14:00:00Z",
     "filename": "2025-10-27_14.00"
   },
   {
-    "path": "assets/images/ARTICSAT-1(RS74S)/2025-10-27_14.05.jpg",
+    "path": "assets/images/ARTICSAT-1(RS74S)/General/2025-10-27_14.05.jpg",
     "satellite": "ARTICSAT-1(RS74S)",
     "event": "General",
     "date": "2025-10-27T14:05:00Z",
     "filename": "2025-10-27_14.05"
   },
   {
-    "path": "assets/images/ARTICSAT-1(RS74S)/2025-10-28_02.00.jpg",
+    "path": "assets/images/ARTICSAT-1(RS74S)/General/2025-10-28_02.00.jpg",
     "satellite": "ARTICSAT-1(RS74S)",
     "event": "General",
     "date": "2025-10-28T02:00:00Z",
     "filename": "2025-10-28_02.00"
   },
   {
-    "path": "assets/images/ARTICSAT-1(RS74S)/2025-10-29_01.20.jpg",
+    "path": "assets/images/ARTICSAT-1(RS74S)/General/2025-10-29_01.20.jpg",
     "satellite": "ARTICSAT-1(RS74S)",
     "event": "General",
     "date": "2025-10-29T01:20:00Z",
     "filename": "2025-10-29_01.20"
   },
   {
-    "path": "assets/images/ARTICSAT-1(RS74S)/2025-10-30_02.07.jpg",
+    "path": "assets/images/ARTICSAT-1(RS74S)/General/2025-10-30_02.07.jpg",
     "satellite": "ARTICSAT-1(RS74S)",
     "event": "General",
     "date": "2025-10-30T02:07:00Z",
     "filename": "2025-10-30_02.07"
   },
   {
-    "path": "assets/images/ARTICSAT-1(RS74S)/2025-11-03_13.40.jpg",
+    "path": "assets/images/ARTICSAT-1(RS74S)/General/2025-11-03_13.40.jpg",
     "satellite": "ARTICSAT-1(RS74S)",
     "event": "General",
     "date": "2025-11-03T13:40:00Z",
     "filename": "2025-11-03_13.40"
   },
   {
-    "path": "assets/images/ARTICSAT-1(RS74S)/2025-11-03_13.45.jpg",
+    "path": "assets/images/ARTICSAT-1(RS74S)/General/2025-11-03_13.45.jpg",
     "satellite": "ARTICSAT-1(RS74S)",
     "event": "General",
     "date": "2025-11-03T13:45:00Z",
     "filename": "2025-11-03_13.45"
   },
   {
-    "path": "assets/images/ARTICSAT-1(RS74S)/2025-11-05_13.50.jpg",
+    "path": "assets/images/ARTICSAT-1(RS74S)/General/2025-11-05_13.50.jpg",
     "satellite": "ARTICSAT-1(RS74S)",
     "event": "General",
     "date": "2025-11-05T13:50:00Z",
     "filename": "2025-11-05_13.50"
   },
   {
-    "path": "assets/images/ARTICSAT-1(RS74S)/2025-11-06_01.50.jpg",
+    "path": "assets/images/ARTICSAT-1(RS74S)/General/2025-11-06_01.50.jpg",
     "satellite": "ARTICSAT-1(RS74S)",
     "event": "General",
     "date": "2025-11-06T01:50:00Z",
     "filename": "2025-11-06_01.50"
   },
   {
-    "path": "assets/images/ARTICSAT-1(RS74S)/2025-11-06_01.55.jpg",
+    "path": "assets/images/ARTICSAT-1(RS74S)/General/2025-11-06_01.55.jpg",
     "satellite": "ARTICSAT-1(RS74S)",
     "event": "General",
     "date": "2025-11-06T01:55:00Z",
     "filename": "2025-11-06_01.55"
   },
   {
-    "path": "assets/images/ARTICSAT-1(RS74S)/2025-11-07_01.05.jpg",
+    "path": "assets/images/ARTICSAT-1(RS74S)/General/2025-11-07_01.05.jpg",
     "satellite": "ARTICSAT-1(RS74S)",
     "event": "General",
     "date": "2025-11-07T01:05:00Z",
     "filename": "2025-11-07_01.05"
   },
   {
-    "path": "assets/images/ARTICSAT-1(RS74S)/2025-11-13_14.10.jpg",
+    "path": "assets/images/ARTICSAT-1(RS74S)/General/2025-11-13_14.10.jpg",
     "satellite": "ARTICSAT-1(RS74S)",
     "event": "General",
     "date": "2025-11-13T14:10:00Z",
     "filename": "2025-11-13_14.10"
   },
   {
-    "path": "assets/images/ARTICSAT-1(RS74S)/2025-11-16_00.40.jpg",
+    "path": "assets/images/ARTICSAT-1(RS74S)/General/2025-11-16_00.40.jpg",
     "satellite": "ARTICSAT-1(RS74S)",
     "event": "General",
     "date": "2025-11-16T00:40:00Z",
     "filename": "2025-11-16_00.40"
   },
   {
-    "path": "assets/images/MONITOR-3(RS58S)/2025-06-28_14.07.44.jpg",
-    "satellite": "MONITOR-3(RS58S)",
+    "path": "assets/images/ARTICSAT-1(RS74S)/General/Рождество Христово/20241231_0112.jpg",
+    "satellite": "ARTICSAT-1(RS74S)",
     "event": "General",
+    "date": "2024-12-31T01:12:00Z",
+    "filename": "20241231_0112"
+  },
+  {
+    "path": "assets/images/HYPERVIEW-1G(RS66S)/General/20250106_0153.jpg",
+    "satellite": "HYPERVIEW-1G(RS66S)",
+    "event": "General",
+    "date": "2025-01-06T01:53:00Z",
+    "filename": "20250106_0153"
+  },
+  {
+    "path": "assets/images/MONITOR-3(RS58S)/2_YEARS_IN_ORBIT/2025-06-28_14.07.44.jpg",
+    "satellite": "MONITOR-3(RS58S)",
+    "event": "2 YEARS IN ORBIT",
     "date": "2025-06-28T14:07:44Z",
     "filename": "2025-06-28_14.07.44"
   },
   {
-    "path": "assets/images/MONITOR-3(RS58S)/2025-06-28_14.10.20.jpg",
+    "path": "assets/images/MONITOR-3(RS58S)/General/2025-06-28_14.10.20.jpg",
     "satellite": "MONITOR-3(RS58S)",
     "event": "General",
     "date": "2025-06-28T14:10:20Z",
     "filename": "2025-06-28_14.10.20"
   },
   {
-    "path": "assets/images/NANOZOND-1(RS49S)/2025-03-22_02.49.06.jpg",
+    "path": "assets/images/MORDOVIA-IOT(RS50S)/General/20250107_0203.jpg",
+    "satellite": "MORDOVIA-IOT(RS50S)",
+    "event": "General",
+    "date": "2025-01-07T02:03:00Z",
+    "filename": "20250107_0203"
+  },
+  {
+    "path": "assets/images/NANOZOND-1(RS49S)/20250113_0123.jpg",
+    "satellite": "NANOZOND-1(RS49S)",
+    "event": "General",
+    "date": "2025-01-13T01:23:00Z",
+    "filename": "20250113_0123"
+  },
+  {
+    "path": "assets/images/NANOZOND-1(RS49S)/20250113_0125.jpg",
+    "satellite": "NANOZOND-1(RS49S)",
+    "event": "General",
+    "date": "2025-01-13T01:25:00Z",
+    "filename": "20250113_0125"
+  },
+  {
+    "path": "assets/images/NANOZOND-1(RS49S)/General/2025-03-22_02.49.06.jpg",
     "satellite": "NANOZOND-1(RS49S)",
     "event": "General",
     "date": "2025-03-22T02:49:06Z",
     "filename": "2025-03-22_02.49.06"
   },
   {
-    "path": "assets/images/NANOZOND-1(RS49S)/2025-10-18_03.30.46.jpg",
+    "path": "assets/images/NANOZOND-1(RS49S)/General/2025-10-18_03.30.46.jpg",
     "satellite": "NANOZOND-1(RS49S)",
     "event": "General",
     "date": "2025-10-18T03:30:46Z",
     "filename": "2025-10-18_03.30.46"
   },
   {
-    "path": "assets/images/NANOZOND-1(RS49S)/2025-10-18_03.33.22.jpg",
+    "path": "assets/images/NANOZOND-1(RS49S)/General/2025-10-18_03.33.22.jpg",
     "satellite": "NANOZOND-1(RS49S)",
     "event": "General",
     "date": "2025-10-18T03:33:22Z",
     "filename": "2025-10-18_03.33.22"
+  },
+  {
+    "path": "assets/images/ORBICRAFT-ZORKIY(RS15S)/General/20250322_0254.jpg",
+    "satellite": "ORBICRAFT-ZORKIY(RS15S)",
+    "event": "General",
+    "date": "2025-03-22T02:54:00Z",
+    "filename": "20250322_0254"
+  },
+  {
+    "path": "assets/images/RUZAEVKA-390(RS44S)/General/20250107_0206.jpg",
+    "satellite": "RUZAEVKA-390(RS44S)",
+    "event": "General",
+    "date": "2025-01-07T02:06:00Z",
+    "filename": "20250107_0206"
   },
   {
     "path": "assets/images/UMKA-1(RS40S)/General/2025-04-01_01.50.33.jpg",
@@ -483,69 +539,6 @@
     "filename": "2025-04-03_13.44.47"
   },
   {
-    "path": "assets/images/UMKA-1(RS40S)/General/2025-04-12_13.18.48.jpg",
-    "satellite": "UMKA-1(RS40S)",
-    "event": "General",
-    "date": "2025-04-12T13:18:48Z",
-    "filename": "2025-04-12_13.18.48"
-  },
-  {
-    "path": "assets/images/UMKA-1(RS40S)/General/2025-04-12_13.21.48.jpg",
-    "satellite": "UMKA-1(RS40S)",
-    "event": "General",
-    "date": "2025-04-12T13:21:48Z",
-    "filename": "2025-04-12_13.21.48"
-  },
-  {
-    "path": "assets/images/UMKA-1(RS40S)/General/2025-04-12_13.24.48.jpg",
-    "satellite": "UMKA-1(RS40S)",
-    "event": "General",
-    "date": "2025-04-12T13:24:48Z",
-    "filename": "2025-04-12_13.24.48"
-  },
-  {
-    "path": "assets/images/UMKA-1(RS40S)/General/2025-04-13_02.26.52.jpg",
-    "satellite": "UMKA-1(RS40S)",
-    "event": "General",
-    "date": "2025-04-13T02:26:52Z",
-    "filename": "2025-04-13_02.26.52"
-  },
-  {
-    "path": "assets/images/UMKA-1(RS40S)/General/2025-04-13_02.29.52.jpg",
-    "satellite": "UMKA-1(RS40S)",
-    "event": "General",
-    "date": "2025-04-13T02:29:52Z",
-    "filename": "2025-04-13_02.29.52"
-  },
-  {
-    "path": "assets/images/UMKA-1(RS40S)/General/2025-04-13_02.32.52.jpg",
-    "satellite": "UMKA-1(RS40S)",
-    "event": "General",
-    "date": "2025-04-13T02:32:52Z",
-    "filename": "2025-04-13_02.32.52"
-  },
-  {
-    "path": "assets/images/UMKA-1(RS40S)/General/2025-04-18_13.35.40.jpg",
-    "satellite": "UMKA-1(RS40S)",
-    "event": "General",
-    "date": "2025-04-18T13:35:40Z",
-    "filename": "2025-04-18_13.35.40"
-  },
-  {
-    "path": "assets/images/UMKA-1(RS40S)/General/2025-04-18_13.39.10.jpg",
-    "satellite": "UMKA-1(RS40S)",
-    "event": "General",
-    "date": "2025-04-18T13:39:10Z",
-    "filename": "2025-04-18_13.39.10"
-  },
-  {
-    "path": "assets/images/UMKA-1(RS40S)/General/2025-04-18_13.42.40.jpg",
-    "satellite": "UMKA-1(RS40S)",
-    "event": "General",
-    "date": "2025-04-18T13:42:40Z",
-    "filename": "2025-04-18_13.42.40"
-  },
-  {
     "path": "assets/images/UMKA-1(RS40S)/General/2025-04-27_02.34.08.jpg",
     "satellite": "UMKA-1(RS40S)",
     "event": "General",
@@ -579,34 +572,6 @@
     "event": "General",
     "date": "2025-04-27T13:17:52Z",
     "filename": "2025-04-27_13.17.52"
-  },
-  {
-    "path": "assets/images/UMKA-1(RS40S)/General/2025-05-07_12.41.02.jpg",
-    "satellite": "UMKA-1(RS40S)",
-    "event": "General",
-    "date": "2025-05-07T12:41:02Z",
-    "filename": "2025-05-07_12.41.02"
-  },
-  {
-    "path": "assets/images/UMKA-1(RS40S)/General/2025-05-07_14.11.46.jpg",
-    "satellite": "UMKA-1(RS40S)",
-    "event": "General",
-    "date": "2025-05-07T14:11:46Z",
-    "filename": "2025-05-07_14.11.46"
-  },
-  {
-    "path": "assets/images/UMKA-1(RS40S)/General/2025-05-07_14.14.14.jpg",
-    "satellite": "UMKA-1(RS40S)",
-    "event": "General",
-    "date": "2025-05-07T14:14:14Z",
-    "filename": "2025-05-07_14.14.14"
-  },
-  {
-    "path": "assets/images/UMKA-1(RS40S)/General/2025-05-07_14.16.20.jpg",
-    "satellite": "UMKA-1(RS40S)",
-    "event": "General",
-    "date": "2025-05-07T14:16:20Z",
-    "filename": "2025-05-07_14.16.20"
   },
   {
     "path": "assets/images/UMKA-1(RS40S)/General/2025-05-09_13.47.28.jpg",
@@ -803,48 +768,6 @@
     "event": "General",
     "date": "2025-07-01T12:55:05Z",
     "filename": "2025-07-01_12.55.05"
-  },
-  {
-    "path": "assets/images/UMKA-1(RS40S)/General/2025-08-19_01.44.01.jpg",
-    "satellite": "UMKA-1(RS40S)",
-    "event": "General",
-    "date": "2025-08-19T01:44:01Z",
-    "filename": "2025-08-19_01.44.01"
-  },
-  {
-    "path": "assets/images/UMKA-1(RS40S)/General/2025-08-19_01.46.32.jpg",
-    "satellite": "UMKA-1(RS40S)",
-    "event": "General",
-    "date": "2025-08-19T01:46:32Z",
-    "filename": "2025-08-19_01.46.32"
-  },
-  {
-    "path": "assets/images/UMKA-1(RS40S)/General/2025-08-19_01.49.08.jpg",
-    "satellite": "UMKA-1(RS40S)",
-    "event": "General",
-    "date": "2025-08-19T01:49:08Z",
-    "filename": "2025-08-19_01.49.08"
-  },
-  {
-    "path": "assets/images/UMKA-1(RS40S)/General/2025-08-19_01.51.44.jpg",
-    "satellite": "UMKA-1(RS40S)",
-    "event": "General",
-    "date": "2025-08-19T01:51:44Z",
-    "filename": "2025-08-19_01.51.44"
-  },
-  {
-    "path": "assets/images/UMKA-1(RS40S)/General/2025-08-19_13.44.11.jpg",
-    "satellite": "UMKA-1(RS40S)",
-    "event": "General",
-    "date": "2025-08-19T13:44:11Z",
-    "filename": "2025-08-19_13.44.11"
-  },
-  {
-    "path": "assets/images/UMKA-1(RS40S)/General/2025-08-19_13.46.31.jpg",
-    "satellite": "UMKA-1(RS40S)",
-    "event": "General",
-    "date": "2025-08-19T13:46:31Z",
-    "filename": "2025-08-19_13.46.31"
   },
   {
     "path": "assets/images/UMKA-1(RS40S)/General/2025-08-23_03.11.32.jpg",
@@ -1127,126 +1050,294 @@
     "filename": "2025-11-02_03.46"
   },
   {
-    "path": "assets/images/VIZARD-METEO(RS38S)/2025-01-09_14.58.07.jpg",
+    "path": "assets/images/UMKA-1(RS40S)/General/20250126_0112.jpg",
+    "satellite": "UMKA-1(RS40S)",
+    "event": "General",
+    "date": "2025-01-26T01:12:00Z",
+    "filename": "20250126_0112"
+  },
+  {
+    "path": "assets/images/UMKA-1(RS40S)/General/20250126_0114.jpg",
+    "satellite": "UMKA-1(RS40S)",
+    "event": "General",
+    "date": "2025-01-26T01:14:00Z",
+    "filename": "20250126_0114"
+  },
+  {
+    "path": "assets/images/UMKA-1(RS40S)/International_Day_of_Human_Space_Flight/2025-04-12_13.18.48.jpg",
+    "satellite": "UMKA-1(RS40S)",
+    "event": "International Day of Human Space Flight",
+    "date": "2025-04-12T13:18:48Z",
+    "filename": "2025-04-12_13.18.48"
+  },
+  {
+    "path": "assets/images/UMKA-1(RS40S)/International_Day_of_Human_Space_Flight/2025-04-12_13.21.48.jpg",
+    "satellite": "UMKA-1(RS40S)",
+    "event": "International Day of Human Space Flight",
+    "date": "2025-04-12T13:21:48Z",
+    "filename": "2025-04-12_13.21.48"
+  },
+  {
+    "path": "assets/images/UMKA-1(RS40S)/International_Day_of_Human_Space_Flight/2025-04-12_13.24.48.jpg",
+    "satellite": "UMKA-1(RS40S)",
+    "event": "International Day of Human Space Flight",
+    "date": "2025-04-12T13:24:48Z",
+    "filename": "2025-04-12_13.24.48"
+  },
+  {
+    "path": "assets/images/UMKA-1(RS40S)/International_Day_of_Human_Space_Flight/2025-04-13_02.26.52.jpg",
+    "satellite": "UMKA-1(RS40S)",
+    "event": "International Day of Human Space Flight",
+    "date": "2025-04-13T02:26:52Z",
+    "filename": "2025-04-13_02.26.52"
+  },
+  {
+    "path": "assets/images/UMKA-1(RS40S)/International_Day_of_Human_Space_Flight/2025-04-13_02.29.52.jpg",
+    "satellite": "UMKA-1(RS40S)",
+    "event": "International Day of Human Space Flight",
+    "date": "2025-04-13T02:29:52Z",
+    "filename": "2025-04-13_02.29.52"
+  },
+  {
+    "path": "assets/images/UMKA-1(RS40S)/International_Day_of_Human_Space_Flight/2025-04-13_02.32.52.jpg",
+    "satellite": "UMKA-1(RS40S)",
+    "event": "International Day of Human Space Flight",
+    "date": "2025-04-13T02:32:52Z",
+    "filename": "2025-04-13_02.32.52"
+  },
+  {
+    "path": "assets/images/UMKA-1(RS40S)/OKB_Fakel_70_Years/2025-08-19_01.44.01.jpg",
+    "satellite": "UMKA-1(RS40S)",
+    "event": "OKB Fakel 70 Years",
+    "date": "2025-08-19T01:44:01Z",
+    "filename": "2025-08-19_01.44.01"
+  },
+  {
+    "path": "assets/images/UMKA-1(RS40S)/OKB_Fakel_70_Years/2025-08-19_01.46.32.jpg",
+    "satellite": "UMKA-1(RS40S)",
+    "event": "OKB Fakel 70 Years",
+    "date": "2025-08-19T01:46:32Z",
+    "filename": "2025-08-19_01.46.32"
+  },
+  {
+    "path": "assets/images/UMKA-1(RS40S)/OKB_Fakel_70_Years/2025-08-19_01.49.08.jpg",
+    "satellite": "UMKA-1(RS40S)",
+    "event": "OKB Fakel 70 Years",
+    "date": "2025-08-19T01:49:08Z",
+    "filename": "2025-08-19_01.49.08"
+  },
+  {
+    "path": "assets/images/UMKA-1(RS40S)/OKB_Fakel_70_Years/2025-08-19_01.51.44.jpg",
+    "satellite": "UMKA-1(RS40S)",
+    "event": "OKB Fakel 70 Years",
+    "date": "2025-08-19T01:51:44Z",
+    "filename": "2025-08-19_01.51.44"
+  },
+  {
+    "path": "assets/images/UMKA-1(RS40S)/OKB_Fakel_70_Years/2025-08-19_13.44.11.jpg",
+    "satellite": "UMKA-1(RS40S)",
+    "event": "OKB Fakel 70 Years",
+    "date": "2025-08-19T13:44:11Z",
+    "filename": "2025-08-19_13.44.11"
+  },
+  {
+    "path": "assets/images/UMKA-1(RS40S)/OKB_Fakel_70_Years/2025-08-19_13.46.31.jpg",
+    "satellite": "UMKA-1(RS40S)",
+    "event": "OKB Fakel 70 Years",
+    "date": "2025-08-19T13:46:31Z",
+    "filename": "2025-08-19_13.46.31"
+  },
+  {
+    "path": "assets/images/UMKA-1(RS40S)/RADIO_DAY/2025-04-18_13.35.40.jpg",
+    "satellite": "UMKA-1(RS40S)",
+    "event": "RADIO DAY",
+    "date": "2025-04-18T13:35:40Z",
+    "filename": "2025-04-18_13.35.40"
+  },
+  {
+    "path": "assets/images/UMKA-1(RS40S)/RADIO_DAY/2025-04-18_13.39.10.jpg",
+    "satellite": "UMKA-1(RS40S)",
+    "event": "RADIO DAY",
+    "date": "2025-04-18T13:39:10Z",
+    "filename": "2025-04-18_13.39.10"
+  },
+  {
+    "path": "assets/images/UMKA-1(RS40S)/RADIO_DAY/2025-04-18_13.42.40.jpg",
+    "satellite": "UMKA-1(RS40S)",
+    "event": "RADIO DAY",
+    "date": "2025-04-18T13:42:40Z",
+    "filename": "2025-04-18_13.42.40"
+  },
+  {
+    "path": "assets/images/UMKA-1(RS40S)/День_Радио/2025-05-07_12.41.02.jpg",
+    "satellite": "UMKA-1(RS40S)",
+    "event": "День Радио",
+    "date": "2025-05-07T12:41:02Z",
+    "filename": "2025-05-07_12.41.02"
+  },
+  {
+    "path": "assets/images/UMKA-1(RS40S)/День_Радио/2025-05-07_14.11.46.jpg",
+    "satellite": "UMKA-1(RS40S)",
+    "event": "День Радио",
+    "date": "2025-05-07T14:11:46Z",
+    "filename": "2025-05-07_14.11.46"
+  },
+  {
+    "path": "assets/images/UMKA-1(RS40S)/День_Радио/2025-05-07_14.14.14.jpg",
+    "satellite": "UMKA-1(RS40S)",
+    "event": "День Радио",
+    "date": "2025-05-07T14:14:14Z",
+    "filename": "2025-05-07_14.14.14"
+  },
+  {
+    "path": "assets/images/UMKA-1(RS40S)/День_Радио/2025-05-07_14.16.20.jpg",
+    "satellite": "UMKA-1(RS40S)",
+    "event": "День Радио",
+    "date": "2025-05-07T14:16:20Z",
+    "filename": "2025-05-07_14.16.20"
+  },
+  {
+    "path": "assets/images/VIZARD-METEO(RS38S)/General/2025-01-09_14.58.07.jpg",
     "satellite": "VIZARD-METEO(RS38S)",
     "event": "General",
     "date": "2025-01-09T14:58:07Z",
     "filename": "2025-01-09_14.58.07"
   },
   {
-    "path": "assets/images/VIZARD-METEO(RS38S)/2025-04-10_13.01.35.jpg",
+    "path": "assets/images/VIZARD-METEO(RS38S)/General/2025-04-10_13.01.35.jpg",
     "satellite": "VIZARD-METEO(RS38S)",
     "event": "General",
     "date": "2025-04-10T13:01:35Z",
     "filename": "2025-04-10_13.01.35"
   },
   {
-    "path": "assets/images/VIZARD-METEO(RS38S)/2025-04-10_13.03.35.jpg",
+    "path": "assets/images/VIZARD-METEO(RS38S)/General/2025-04-10_13.03.35.jpg",
     "satellite": "VIZARD-METEO(RS38S)",
     "event": "General",
     "date": "2025-04-10T13:03:35Z",
     "filename": "2025-04-10_13.03.35"
   },
   {
-    "path": "assets/images/VIZARD-METEO(RS38S)/2025-04-10_13.05.35.jpg",
+    "path": "assets/images/VIZARD-METEO(RS38S)/General/2025-04-10_13.05.35.jpg",
     "satellite": "VIZARD-METEO(RS38S)",
     "event": "General",
     "date": "2025-04-10T13:05:35Z",
     "filename": "2025-04-10_13.05.35"
   },
   {
-    "path": "assets/images/VIZARD-METEO(RS38S)/2025-04-10_14.35.28.jpg",
+    "path": "assets/images/VIZARD-METEO(RS38S)/General/2025-04-10_14.35.28.jpg",
     "satellite": "VIZARD-METEO(RS38S)",
     "event": "General",
     "date": "2025-04-10T14:35:28Z",
     "filename": "2025-04-10_14.35.28"
   },
   {
-    "path": "assets/images/VIZARD-METEO(RS38S)/2025-04-10_14.37.28.jpg",
+    "path": "assets/images/VIZARD-METEO(RS38S)/General/2025-04-10_14.37.28.jpg",
     "satellite": "VIZARD-METEO(RS38S)",
     "event": "General",
     "date": "2025-04-10T14:37:28Z",
     "filename": "2025-04-10_14.37.28"
   },
   {
-    "path": "assets/images/VIZARD-METEO(RS38S)/2025-04-10_14.39.28.jpg",
+    "path": "assets/images/VIZARD-METEO(RS38S)/General/2025-04-10_14.39.28.jpg",
     "satellite": "VIZARD-METEO(RS38S)",
     "event": "General",
     "date": "2025-04-10T14:39:28Z",
     "filename": "2025-04-10_14.39.28"
   },
   {
-    "path": "assets/images/VIZARD-METEO(RS38S)/2025-05-09_14.14.34.jpg",
+    "path": "assets/images/VIZARD-METEO(RS38S)/General/2025-05-09_14.14.34.jpg",
     "satellite": "VIZARD-METEO(RS38S)",
     "event": "General",
     "date": "2025-05-09T14:14:34Z",
     "filename": "2025-05-09_14.14.34"
   },
   {
-    "path": "assets/images/VIZARD-METEO(RS38S)/2025-05-09_14.17.10.jpg",
+    "path": "assets/images/VIZARD-METEO(RS38S)/General/2025-05-09_14.17.10.jpg",
     "satellite": "VIZARD-METEO(RS38S)",
     "event": "General",
     "date": "2025-05-09T14:17:10Z",
     "filename": "2025-05-09_14.17.10"
   },
   {
-    "path": "assets/images/VIZARD-METEO(RS38S)/2025-05-09_14.19.47.jpg",
+    "path": "assets/images/VIZARD-METEO(RS38S)/General/2025-05-09_14.19.47.jpg",
     "satellite": "VIZARD-METEO(RS38S)",
     "event": "General",
     "date": "2025-05-09T14:19:47Z",
     "filename": "2025-05-09_14.19.47"
   },
   {
-    "path": "assets/images/VIZARD-METEO(RS38S)/2025-05-09_14.22.23.jpg",
+    "path": "assets/images/VIZARD-METEO(RS38S)/General/2025-05-09_14.22.23.jpg",
     "satellite": "VIZARD-METEO(RS38S)",
     "event": "General",
     "date": "2025-05-09T14:22:23Z",
     "filename": "2025-05-09_14.22.23"
   },
   {
-    "path": "assets/images/VIZARD-METEO(RS38S)/2025-10-18_03.16.00.jpg",
+    "path": "assets/images/VIZARD-METEO(RS38S)/General/2025-10-18_03.16.00.jpg",
     "satellite": "VIZARD-METEO(RS38S)",
     "event": "General",
     "date": "2025-10-18T03:16:00Z",
     "filename": "2025-10-18_03.16.00"
   },
   {
-    "path": "assets/images/VIZARD-METEO(RS38S)/2025-10-18_03.18.36.jpg",
+    "path": "assets/images/VIZARD-METEO(RS38S)/General/2025-10-18_03.18.36.jpg",
     "satellite": "VIZARD-METEO(RS38S)",
     "event": "General",
     "date": "2025-10-18T03:18:36Z",
     "filename": "2025-10-18_03.18.36"
   },
   {
-    "path": "assets/images/VIZARD-METEO(RS38S)/2025-10-18_03.21.12.jpg",
+    "path": "assets/images/VIZARD-METEO(RS38S)/General/2025-10-18_03.21.12.jpg",
     "satellite": "VIZARD-METEO(RS38S)",
     "event": "General",
     "date": "2025-10-18T03:21:12Z",
     "filename": "2025-10-18_03.21.12"
   },
   {
-    "path": "assets/images/VIZARD-METEO(RS38S)/2025-10-18_03.28.17.jpg",
+    "path": "assets/images/VIZARD-METEO(RS38S)/General/2025-10-18_03.28.17.jpg",
     "satellite": "VIZARD-METEO(RS38S)",
     "event": "General",
     "date": "2025-10-18T03:28:17Z",
     "filename": "2025-10-18_03.28.17"
   },
   {
-    "path": "assets/images/VIZARD-METEO(RS38S)/20250318_1402.jpg",
+    "path": "assets/images/VIZARD-METEO(RS38S)/General/20250101_1355.jpg",
+    "satellite": "VIZARD-METEO(RS38S)",
+    "event": "General",
+    "date": "2025-01-01T13:55:00Z",
+    "filename": "20250101_1355"
+  },
+  {
+    "path": "assets/images/VIZARD-METEO(RS38S)/General/20250109_1324.jpg",
+    "satellite": "VIZARD-METEO(RS38S)",
+    "event": "General",
+    "date": "2025-01-09T13:24:00Z",
+    "filename": "20250109_1324"
+  },
+  {
+    "path": "assets/images/VIZARD-METEO(RS38S)/General/20250113_0123.jpg",
+    "satellite": "VIZARD-METEO(RS38S)",
+    "event": "General",
+    "date": "2025-01-13T01:23:00Z",
+    "filename": "20250113_0123"
+  },
+  {
+    "path": "assets/images/VIZARD-METEO(RS38S)/General/20250318_1402.jpg",
     "satellite": "VIZARD-METEO(RS38S)",
     "event": "General",
     "date": "2025-03-18T14:02:00Z",
     "filename": "20250318_1402"
   },
   {
-    "path": "assets/images/VIZARD-METEO(RS38S)/20250318_1404.jpg",
+    "path": "assets/images/VIZARD-METEO(RS38S)/General/20250318_1404.jpg",
     "satellite": "VIZARD-METEO(RS38S)",
     "event": "General",
     "date": "2025-03-18T14:04:00Z",
     "filename": "20250318_1404"
   },
   {
-    "path": "assets/images/VIZARD-METEO(RS38S)/20250318_1407.jpg",
+    "path": "assets/images/VIZARD-METEO(RS38S)/General/20250318_1407.jpg",
     "satellite": "VIZARD-METEO(RS38S)",
     "event": "General",
     "date": "2025-03-18T14:07:00Z",

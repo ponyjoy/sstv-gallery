@@ -69,7 +69,6 @@ body {
 /* Layout */
 .container {
     max-width: 1400px;
-    /* Increased max-width for better gallery view */
     margin: 0 auto;
     padding: 0 20px;
 }
@@ -89,11 +88,8 @@ body {
     position: sticky;
     top: 20px;
     height: calc(100vh - 40px);
-    /* Full height minus margins */
     overflow-y: auto;
-    /* Enable internal scrolling */
     padding-right: 10px;
-    /* Space for scrollbar */
     transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
     z-index: 100;
 }
@@ -182,7 +178,6 @@ header {
 /* Mobile Menu Button */
 .mobile-menu-btn {
     display: none;
-    /* Hidden on PC */
     position: absolute;
     left: 20px;
     background: transparent;
@@ -246,8 +241,6 @@ header {
     opacity: 1;
 }
 
-/* ... existing styles ... */
-
 h1 {
     font-family: var(--font-heading);
     font-size: 2.5rem;
@@ -269,7 +262,17 @@ h1 {
     margin: 0 10px;
 }
 
-/* ... existing sidebar widget styles ... */
+.callsign-link {
+    color: var(--accent);
+    text-decoration: none;
+    transition: all 0.3s ease;
+}
+
+.callsign-link:hover {
+    text-shadow: 0 0 10px var(--accent-glow);
+}
+
+/* Sidebar Widgets */
 .sidebar-widget {
     background: var(--card-bg);
     border: 1px solid var(--border-color);
@@ -288,11 +291,45 @@ h1 {
 
 .archive-list {
     list-style: none;
-    max-height: 300px;
-    /* Limit height of individual lists if needed, but sidebar scroll handles it */
 }
 
-/* ... existing controls, gallery, card styles ... */
+.archive-list li {
+    margin-bottom: 5px;
+}
+
+.archive-list a {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: var(--text-secondary);
+    text-decoration: none;
+    padding: 6px 10px;
+    border-radius: 5px;
+    transition: all 0.2s ease;
+    font-size: 0.9rem;
+}
+
+.archive-list a:hover,
+.archive-list a.active {
+    background: rgba(0, 243, 255, 0.1);
+    color: var(--accent);
+}
+
+.archive-list a span:first-child {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    margin-right: 8px;
+    flex: 1;
+    min-width: 0;
+}
+
+.archive-count {
+    font-size: 0.85rem;
+    opacity: 0.8;
+    white-space: nowrap;
+    flex-shrink: 0;
+}
 
 /* Controls */
 .controls {
@@ -374,7 +411,6 @@ h1 {
 .card-image-wrapper {
     width: 100%;
     aspect-ratio: 4/3;
-    /* Standard SSTV ratio usually */
     overflow: hidden;
     background: #000;
 }
@@ -538,6 +574,39 @@ footer a {
     box-shadow: 0 0 10px var(--accent-glow);
 }
 
+.loading,
+.error,
+.no-results {
+    text-align: center;
+    padding: 40px;
+    color: var(--text-secondary);
+    font-size: 1.2rem;
+}
+
+/* Loading Spinner */
+.sentinel {
+    width: 100%;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.loading-spinner {
+    width: 40px;
+    height: 40px;
+    border: 4px solid rgba(0, 243, 255, 0.1);
+    border-left-color: var(--accent);
+    border-radius: 50%;
+    animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+    to {
+        transform: rotate(360deg);
+    }
+}
+
 /* Responsive */
 @media (max-width: 768px) {
     .main-layout {
@@ -547,7 +616,6 @@ footer a {
 
     .sidebar-toggle {
         display: none;
-        /* Hide PC toggle on mobile */
     }
 
     .mobile-menu-btn {
@@ -571,7 +639,6 @@ footer a {
         position: fixed;
         top: 0;
         left: -300px;
-        /* Hide off-screen */
         width: 280px;
         height: 100vh;
         background: var(--bg-color);
