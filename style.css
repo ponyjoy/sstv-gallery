@@ -525,6 +525,24 @@ footer a {
     text-decoration: none;
 }
 
+.beian-info {
+    margin-top: 10px;
+    font-size: 0.85rem;
+}
+
+.beian-info .separator {
+    margin: 0 10px;
+    opacity: 0.5;
+}
+
+.beian-icon {
+    display: inline-block;
+    width: 14px;
+    height: 14px;
+    vertical-align: middle;
+    margin-right: 3px;
+}
+
 /* Back to Top Button */
 #backToTop {
     display: none;
